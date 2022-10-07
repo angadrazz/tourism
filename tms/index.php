@@ -56,8 +56,8 @@ include('includes/config.php');
 				<a href="offers.html"><i class="fa fa-h-square"></i></a>
 			</div>
 			<div class="rup-rgt">
-				<h3>UP TO 70% OFF</h3>
-				<h4><a href="offers.html">ON HOTELS ACROSS WORLD</a></h4>
+				<h3>UP TO 75% OFF</h3>
+				<h4><a href="offers.html">ON HOTELS ACROSS INDIA</a></h4>
 				
 			</div>
 				<div class="clearfix"></div>
