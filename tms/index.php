@@ -67,7 +67,7 @@ include('includes/config.php');
 				<a href="offers.html"><i class="fa fa-mobile"></i></a>
 			</div>
 			<div class="rup-rgt">
-				<h3>FLAT USD. 50 OFF</h3>
+				<h3>FLAT USD. 80 OFF</h3>
 				<h4><a href="offers.html">US APP OFFER</a></h4>
 			
 			</div>
