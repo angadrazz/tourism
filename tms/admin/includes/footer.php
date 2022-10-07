@@ -1,3 +1,3 @@
 <div class="copyrights">
-	 <p>© 2020 TMS. All Rights Reserved |  <a href="#">TMS</a> </p>
+	 <p>© 2020 TMS. Design by Angad Mandal |  <a href="#">TMS</a> </p>
 </div>	
