@@ -45,7 +45,7 @@ include('includes/config.php');
 				<a href="offers.html"><i class="fa fa-usd"></i></a>
 			</div>
 			<div class="rup-rgt">
-				<h3>UP TO USD. 40 OFF</h3>
+				<h3>UP TO INR. 40 OFF</h3>
 				<h4><a href="offers.html">TRAVEL SMART</a></h4>
 				
 			</div>
@@ -57,7 +57,7 @@ include('includes/config.php');
 			</div>
 			<div class="rup-rgt">
 				<h3>UP TO 75% OFF</h3>
-				<h4><a href="offers.html">ON HOTELS ACROSS WORLD</a></h4>
+				<h4><a href="offers.html">ON HOTELS ACROSS INDIA</a></h4>
 				
 			</div>
 				<div class="clearfix"></div>
@@ -67,7 +67,7 @@ include('includes/config.php');
 				<a href="offers.html"><i class="fa fa-mobile"></i></a>
 			</div>
 			<div class="rup-rgt">
-				<h3>FLAT USD. 80 OFF</h3>
+				<h3>FLAT INR. 80 OFF</h3>
 				<h4><a href="offers.html">US APP OFFER</a></h4>
 			
 			</div>
@@ -112,7 +112,7 @@ foreach($results as $result)
 					<p><b>Features</b> <?php echo htmlentities($result->PackageFetures);?></p>
 				</div>
 				<div class="col-md-3 room-right wow fadeInRight animated" data-wow-delay=".5s">
-					<h5>USD <?php echo htmlentities($result->PackagePrice);?></h5>
+					<h5>INR <?php echo htmlentities($result->PackagePrice);?></h5>
 					<a href="package-details.php?pkgid=<?php echo htmlentities($result->PackageId);?>" class="view">Details</a>
 				</div>
 				<div class="clearfix"></div>
