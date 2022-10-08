@@ -42,8 +42,8 @@ include('includes/config.php');
 		<div class="col-md-10 contact-left">
 			<div class="con-top animated wow fadeInUp animated" data-wow-duration="1200ms" data-wow-delay="500ms" style="visibility: visible; animation-duration: 1200ms; animation-delay: 500ms; animation-name: fadeInUp;">
 	
-
-              <h4>  <?php echo htmlentities($_SESSION['msg']);?></h4>
+             <h4>Your query is successfully submited.</h4>
+              
             
 			</div>
 		
